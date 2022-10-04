@@ -1,0 +1,10 @@
+C:\Users\Tony\source\repos\TSVProject\bin\Debug\TSVProject.exe.config
+C:\Users\Tony\source\repos\TSVProject\bin\Debug\TSVProject.exe
+C:\Users\Tony\source\repos\TSVProject\bin\Debug\TSVProject.pdb
+C:\Users\Tony\source\repos\TSVProject\obj\Debug\TSVProject.csproj.AssemblyReference.cache
+C:\Users\Tony\source\repos\TSVProject\obj\Debug\TSVProject.TSV_Export.resources
+C:\Users\Tony\source\repos\TSVProject\obj\Debug\TSVProject.Properties.Resources.resources
+C:\Users\Tony\source\repos\TSVProject\obj\Debug\TSVProject.csproj.GenerateResource.cache
+C:\Users\Tony\source\repos\TSVProject\obj\Debug\TSVProject.csproj.CoreCompileInputs.cache
+C:\Users\Tony\source\repos\TSVProject\obj\Debug\TSVProject.exe
+C:\Users\Tony\source\repos\TSVProject\obj\Debug\TSVProject.pdb
