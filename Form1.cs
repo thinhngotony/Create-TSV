@@ -186,12 +186,12 @@ namespace TSVProject
             //write data body
             foreach (DataRow row in dt.Rows)
             {
-                IEnumerable<string> fields = row.ItemArray.Select(field => field.ToString());
+                IEnumerable<string> fields = row.ItemArray.Select(field => "\"" + field.ToString() + "\"");
                 sb.AppendLine(string.Join("\t", fields));
             }
 
             File.AppendAllText(name.ToString(), sb.ToString().Replace("\r",""), Encoding.UTF8);
-            //
+
         }
 
 
